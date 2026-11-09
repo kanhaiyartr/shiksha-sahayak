@@ -1,0 +1,79 @@
+udise_code,school_name,state,district,block,management,category,location,enrolment,teachers,classrooms,electricity,drinking_water,functional_toilet,medium,record_type
+99000000001,Neem Primary School 1,Uttarakhand,Almora,Almora Block,Aided,Primary,urban,47,3,3,yes,yes,yes,English,synthetic
+99000000002,Peepal Upper Primary School 2,Uttarakhand,Bageshwar,Bageshwar Block,Department of Education,Upper Primary,rural,54,4,4,yes,yes,yes,Hindi and English,synthetic
+99000000003,Banyan Secondary School 3,Uttarakhand,Chamoli,Chamoli Block,Aided,Secondary,urban,61,5,5,yes,yes,yes,Hindi,synthetic
+99000000004,Sal Primary School 4,Uttarakhand,Champawat,Champawat Block,Department of Education,Primary,rural,68,6,6,yes,yes,yes,English,synthetic
+99000000005,Jamun Upper Primary School 5,Uttarakhand,Dehradun,Dehradun Block,Aided,Upper Primary,urban,75,7,7,no,yes,yes,Hindi and English,synthetic
+99000000006,Bamboo Secondary School 6,Uttarakhand,Haridwar,Haridwar Block,Department of Education,Secondary,rural,82,8,8,yes,yes,yes,Hindi,synthetic
+99000000007,Kadam Primary School 7,Uttarakhand,Nainital,Nainital Block,Aided,Primary,urban,89,9,9,yes,no,yes,English,synthetic
+99000000008,Arjun Upper Primary School 8,Uttarakhand,Pauri Garhwal,Pauri Block,Department of Education,Upper Primary,rural,96,10,10,yes,yes,yes,Hindi and English,synthetic
+99000000009,Neem Secondary School 9,Uttarakhand,Pithoragarh,Pithoragarh Block,Aided,Secondary,urban,103,2,11,yes,yes,yes,Hindi,synthetic
+99000000010,Peepal Primary School 10,Uttarakhand,Rudraprayag,Rudraprayag Block,Department of Education,Primary,rural,110,3,12,no,yes,yes,English,synthetic
+99000000011,Banyan Upper Primary School 11,Uttarakhand,Tehri Garhwal,Tehri Block,Aided,Upper Primary,urban,117,4,13,yes,yes,no,Hindi and English,synthetic
+99000000012,Sal Secondary School 12,Uttarakhand,Udham Singh Nagar,Rudrapur Block,Department of Education,Secondary,rural,124,5,2,yes,yes,yes,Hindi,synthetic
+99000000013,Jamun Primary School 13,Uttarakhand,Uttarkashi,Uttarkashi Block,Aided,Primary,urban,131,6,3,yes,yes,yes,English,synthetic
+99000000014,Bamboo Upper Primary School 14,Uttarakhand,Almora,Almora Block,Department of Education,Upper Primary,rural,138,7,4,yes,no,yes,Hindi and English,synthetic
+99000000015,Kadam Secondary School 15,Uttarakhand,Bageshwar,Bageshwar Block,Aided,Secondary,urban,145,8,5,no,yes,yes,Hindi,synthetic
+99000000016,Arjun Primary School 16,Uttarakhand,Chamoli,Chamoli Block,Department of Education,Primary,rural,152,9,6,yes,yes,yes,English,synthetic
+99000000017,Neem Upper Primary School 17,Uttarakhand,Champawat,Champawat Block,Aided,Upper Primary,urban,159,10,7,yes,yes,yes,Hindi and English,synthetic
+99000000018,Peepal Secondary School 18,Uttarakhand,Dehradun,Dehradun Block,Department of Education,Secondary,rural,166,2,8,yes,yes,yes,Hindi,synthetic
+99000000019,Banyan Primary School 19,Uttarakhand,Haridwar,Haridwar Block,Aided,Primary,urban,173,3,9,yes,yes,yes,English,synthetic
+99000000020,Sal Upper Primary School 20,Uttarakhand,Nainital,Nainital Block,Department of Education,Upper Primary,rural,180,4,10,no,yes,yes,Hindi and English,synthetic
+99000000021,Jamun Secondary School 21,Uttarakhand,Pauri Garhwal,Pauri Block,Aided,Secondary,urban,187,5,11,yes,no,yes,Hindi,synthetic
+99000000022,Bamboo Primary School 22,Uttarakhand,Pithoragarh,Pithoragarh Block,Department of Education,Primary,rural,194,6,12,yes,yes,no,English,synthetic
+99000000023,Kadam Upper Primary School 23,Uttarakhand,Rudraprayag,Rudraprayag Block,Aided,Upper Primary,urban,201,7,13,yes,yes,yes,Hindi and English,synthetic
+99000000024,Arjun Secondary School 24,Uttarakhand,Tehri Garhwal,Tehri Block,Department of Education,Secondary,rural,208,8,2,yes,yes,yes,Hindi,synthetic
+99000000025,Neem Primary School 25,Uttarakhand,Udham Singh Nagar,Rudrapur Block,Aided,Primary,urban,215,9,3,no,yes,yes,English,synthetic
+99000000026,Peepal Upper Primary School 26,Uttarakhand,Uttarkashi,Uttarkashi Block,Department of Education,Upper Primary,rural,222,10,4,yes,yes,yes,Hindi and English,synthetic
+99000000027,Banyan Secondary School 27,Uttarakhand,Almora,Almora Block,Aided,Secondary,urban,229,2,5,yes,yes,yes,Hindi,synthetic
+99000000028,Sal Primary School 28,Uttarakhand,Bageshwar,Bageshwar Block,Department of Education,Primary,rural,236,3,6,yes,no,yes,English,synthetic
+99000000029,Jamun Upper Primary School 29,Uttarakhand,Chamoli,Chamoli Block,Aided,Upper Primary,urban,243,4,7,yes,yes,yes,Hindi and English,synthetic
+99000000030,Bamboo Secondary School 30,Uttarakhand,Champawat,Champawat Block,Department of Education,Secondary,rural,250,5,8,no,yes,yes,Hindi,synthetic
+99000000031,Kadam Primary School 31,Uttarakhand,Dehradun,Dehradun Block,Aided,Primary,urban,257,6,9,yes,yes,yes,English,synthetic
+99000000032,Arjun Upper Primary School 32,Uttarakhand,Haridwar,Haridwar Block,Department of Education,Upper Primary,rural,44,7,10,yes,yes,yes,Hindi and English,synthetic
+99000000033,Neem Secondary School 33,Uttarakhand,Nainital,Nainital Block,Aided,Secondary,urban,51,8,11,yes,yes,no,Hindi,synthetic
+99000000034,Peepal Primary School 34,Uttarakhand,Pauri Garhwal,Pauri Block,Department of Education,Primary,rural,58,9,12,yes,yes,yes,English,synthetic
+99000000035,Banyan Upper Primary School 35,Uttarakhand,Pithoragarh,Pithoragarh Block,Aided,Upper Primary,urban,65,10,13,no,no,yes,Hindi and English,synthetic
+99000000036,Sal Secondary School 36,Uttarakhand,Rudraprayag,Rudraprayag Block,Department of Education,Secondary,rural,72,2,2,yes,yes,yes,Hindi,synthetic
+99000000037,Jamun Primary School 37,Uttarakhand,Tehri Garhwal,Tehri Block,Aided,Primary,urban,79,3,3,yes,yes,yes,English,synthetic
+99000000038,Bamboo Upper Primary School 38,Uttarakhand,Udham Singh Nagar,Rudrapur Block,Department of Education,Upper Primary,rural,86,4,4,yes,yes,yes,Hindi and English,synthetic
+99000000039,Kadam Secondary School 39,Uttarakhand,Uttarkashi,Uttarkashi Block,Aided,Secondary,urban,93,5,5,yes,yes,yes,Hindi,synthetic
+99000000040,Arjun Primary School 40,Uttarakhand,Almora,Almora Block,Department of Education,Primary,rural,100,6,6,no,yes,yes,English,synthetic
+99000000041,Neem Upper Primary School 41,Uttarakhand,Bageshwar,Bageshwar Block,Aided,Upper Primary,urban,107,7,7,yes,yes,yes,Hindi and English,synthetic
+99000000042,Peepal Secondary School 42,Uttarakhand,Chamoli,Chamoli Block,Department of Education,Secondary,rural,114,8,8,yes,no,yes,Hindi,synthetic
+99000000043,Banyan Primary School 43,Uttarakhand,Champawat,Champawat Block,Aided,Primary,urban,121,9,9,yes,yes,yes,English,synthetic
+99000000044,Sal Upper Primary School 44,Uttarakhand,Dehradun,Dehradun Block,Department of Education,Upper Primary,rural,128,10,10,yes,yes,no,Hindi and English,synthetic
+99000000045,Jamun Secondary School 45,Uttarakhand,Haridwar,Haridwar Block,Aided,Secondary,urban,135,2,11,no,yes,yes,Hindi,synthetic
+99000000046,Bamboo Primary School 46,Uttarakhand,Nainital,Nainital Block,Department of Education,Primary,rural,142,3,12,yes,yes,yes,English,synthetic
+99000000047,Kadam Upper Primary School 47,Uttarakhand,Pauri Garhwal,Pauri Block,Aided,Upper Primary,urban,149,4,13,yes,yes,yes,Hindi and English,synthetic
+99000000048,Arjun Secondary School 48,Uttarakhand,Pithoragarh,Pithoragarh Block,Department of Education,Secondary,rural,156,5,2,yes,yes,yes,Hindi,synthetic
+99000000049,Neem Primary School 49,Uttarakhand,Rudraprayag,Rudraprayag Block,Aided,Primary,urban,163,6,3,yes,no,yes,English,synthetic
+99000000050,Peepal Upper Primary School 50,Uttarakhand,Tehri Garhwal,Tehri Block,Department of Education,Upper Primary,rural,170,7,4,no,yes,yes,Hindi and English,synthetic
+99000000051,Banyan Secondary School 51,Uttarakhand,Udham Singh Nagar,Rudrapur Block,Aided,Secondary,urban,177,8,5,yes,yes,yes,Hindi,synthetic
+99000000052,Sal Primary School 52,Uttarakhand,Uttarkashi,Uttarkashi Block,Department of Education,Primary,rural,184,9,6,yes,yes,yes,English,synthetic
+99000000053,Jamun Upper Primary School 53,Uttarakhand,Almora,Almora Block,Aided,Upper Primary,urban,191,10,7,yes,yes,yes,Hindi and English,synthetic
+99000000054,Bamboo Secondary School 54,Uttarakhand,Bageshwar,Bageshwar Block,Department of Education,Secondary,rural,198,2,8,yes,yes,yes,Hindi,synthetic
+99000000055,Kadam Primary School 55,Uttarakhand,Chamoli,Chamoli Block,Aided,Primary,urban,205,3,9,no,yes,no,English,synthetic
+99000000056,Arjun Upper Primary School 56,Uttarakhand,Champawat,Champawat Block,Department of Education,Upper Primary,rural,212,4,10,yes,no,yes,Hindi and English,synthetic
+99000000057,Neem Secondary School 57,Uttarakhand,Dehradun,Dehradun Block,Aided,Secondary,urban,219,5,11,yes,yes,yes,Hindi,synthetic
+99000000058,Peepal Primary School 58,Uttarakhand,Haridwar,Haridwar Block,Department of Education,Primary,rural,226,6,12,yes,yes,yes,English,synthetic
+99000000059,Banyan Upper Primary School 59,Uttarakhand,Nainital,Nainital Block,Aided,Upper Primary,urban,233,7,13,yes,yes,yes,Hindi and English,synthetic
+99000000060,Sal Secondary School 60,Uttarakhand,Pauri Garhwal,Pauri Block,Department of Education,Secondary,rural,240,8,2,no,yes,yes,Hindi,synthetic
+99000000061,Jamun Primary School 61,Uttarakhand,Pithoragarh,Pithoragarh Block,Aided,Primary,urban,247,9,3,yes,yes,yes,English,synthetic
+99000000062,Bamboo Upper Primary School 62,Uttarakhand,Rudraprayag,Rudraprayag Block,Department of Education,Upper Primary,rural,254,10,4,yes,yes,yes,Hindi and English,synthetic
+99000000063,Kadam Secondary School 63,Uttarakhand,Tehri Garhwal,Tehri Block,Aided,Secondary,urban,41,2,5,yes,no,yes,Hindi,synthetic
+99000000064,Arjun Primary School 64,Uttarakhand,Udham Singh Nagar,Rudrapur Block,Department of Education,Primary,rural,48,3,6,yes,yes,yes,English,synthetic
+99000000065,Neem Upper Primary School 65,Uttarakhand,Uttarkashi,Uttarkashi Block,Aided,Upper Primary,urban,55,4,7,no,yes,yes,Hindi and English,synthetic
+99000000066,Peepal Secondary School 66,Uttarakhand,Almora,Almora Block,Department of Education,Secondary,rural,62,5,8,yes,yes,no,Hindi,synthetic
+99000000067,Banyan Primary School 67,Uttarakhand,Bageshwar,Bageshwar Block,Aided,Primary,urban,69,6,9,yes,yes,yes,English,synthetic
+99000000068,Sal Upper Primary School 68,Uttarakhand,Chamoli,Chamoli Block,Department of Education,Upper Primary,rural,76,7,10,yes,yes,yes,Hindi and English,synthetic
+99000000069,Jamun Secondary School 69,Uttarakhand,Champawat,Champawat Block,Aided,Secondary,urban,83,8,11,yes,yes,yes,Hindi,synthetic
+99000000070,Bamboo Primary School 70,Uttarakhand,Dehradun,Dehradun Block,Department of Education,Primary,rural,90,9,12,no,no,yes,English,synthetic
+99000000071,Kadam Upper Primary School 71,Uttarakhand,Haridwar,Haridwar Block,Aided,Upper Primary,urban,97,10,13,yes,yes,yes,Hindi and English,synthetic
+99000000072,Arjun Secondary School 72,Uttarakhand,Nainital,Nainital Block,Department of Education,Secondary,rural,104,2,2,yes,yes,yes,Hindi,synthetic
+99000000073,Neem Primary School 73,Uttarakhand,Pauri Garhwal,Pauri Block,Aided,Primary,urban,111,3,3,yes,yes,yes,English,synthetic
+99000000074,Peepal Upper Primary School 74,Uttarakhand,Pithoragarh,Pithoragarh Block,Department of Education,Upper Primary,rural,118,4,4,yes,yes,yes,Hindi and English,synthetic
+99000000075,Banyan Secondary School 75,Uttarakhand,Rudraprayag,Rudraprayag Block,Aided,Secondary,urban,125,5,5,no,yes,yes,Hindi,synthetic
+99000000076,Sal Primary School 76,Uttarakhand,Tehri Garhwal,Tehri Block,Department of Education,Primary,rural,132,6,6,yes,yes,yes,English,synthetic
+99000000077,Jamun Upper Primary School 77,Uttarakhand,Udham Singh Nagar,Rudrapur Block,Aided,Upper Primary,urban,139,7,7,yes,no,no,Hindi and English,synthetic
+99000000078,Bamboo Secondary School 78,Uttarakhand,Uttarkashi,Uttarkashi Block,Department of Education,Secondary,rural,146,8,8,yes,yes,yes,Hindi,synthetic

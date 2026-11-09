@@ -1,0 +1,1923 @@
+{
+  "provider": "local",
+  "model": "claude-haiku-5-5",
+  "cases": 100,
+  "passed": 100,
+  "cost_usd": 0.049147,
+  "cost_per_100_usd": 0.049147,
+  "scert_review": "Not done. The people who wrote this harness are not SCERT experts.",
+  "spot_check_ids": [
+    "en-010",
+    "en-020",
+    "en-030",
+    "en-040",
+    "en-050",
+    "hi-010",
+    "hi-020",
+    "hi-030",
+    "hi-040",
+    "hi-050"
+  ],
+  "records": [
+    {
+      "id": "en-001",
+      "language": "en",
+      "task_type": "worksheet",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000479,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "en-002",
+      "language": "en",
+      "task_type": "lesson_plan",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000546,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "en-003",
+      "language": "en",
+      "task_type": "question_bank",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000481,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "en-004",
+      "language": "en",
+      "task_type": "worksheet",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000472,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "en-005",
+      "language": "en",
+      "task_type": "lesson_plan",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000543,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "en-006",
+      "language": "en",
+      "task_type": "question_bank",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000472,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "en-007",
+      "language": "en",
+      "task_type": "worksheet",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000478,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "en-008",
+      "language": "en",
+      "task_type": "lesson_plan",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000545,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "en-009",
+      "language": "en",
+      "task_type": "question_bank",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000471,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "en-010",
+      "language": "en",
+      "task_type": "worksheet",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000473,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "en-011",
+      "language": "en",
+      "task_type": "lesson_plan",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000545,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "en-012",
+      "language": "en",
+      "task_type": "question_bank",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000481,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "en-013",
+      "language": "en",
+      "task_type": "worksheet",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000481,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "en-014",
+      "language": "en",
+      "task_type": "lesson_plan",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.00054,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "en-015",
+      "language": "en",
+      "task_type": "question_bank",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000479,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "en-016",
+      "language": "en",
+      "task_type": "worksheet",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000472,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "en-017",
+      "language": "en",
+      "task_type": "lesson_plan",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000542,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "en-018",
+      "language": "en",
+      "task_type": "question_bank",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000486,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "en-019",
+      "language": "en",
+      "task_type": "worksheet",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000471,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "en-020",
+      "language": "en",
+      "task_type": "lesson_plan",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.00054,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "en-021",
+      "language": "en",
+      "task_type": "question_bank",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.00048,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "en-022",
+      "language": "en",
+      "task_type": "worksheet",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.00048,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "en-023",
+      "language": "en",
+      "task_type": "lesson_plan",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000546,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "en-024",
+      "language": "en",
+      "task_type": "question_bank",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000472,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "en-025",
+      "language": "en",
+      "task_type": "worksheet",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000479,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "en-026",
+      "language": "en",
+      "task_type": "lesson_plan",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000539,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "en-027",
+      "language": "en",
+      "task_type": "question_bank",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000479,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "en-028",
+      "language": "en",
+      "task_type": "worksheet",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000485,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "en-029",
+      "language": "en",
+      "task_type": "lesson_plan",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000539,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "en-030",
+      "language": "en",
+      "task_type": "question_bank",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000473,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "en-031",
+      "language": "en",
+      "task_type": "worksheet",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000479,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "en-032",
+      "language": "en",
+      "task_type": "lesson_plan",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000546,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "en-033",
+      "language": "en",
+      "task_type": "question_bank",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000481,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "en-034",
+      "language": "en",
+      "task_type": "worksheet",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000472,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "en-035",
+      "language": "en",
+      "task_type": "lesson_plan",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000543,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "en-036",
+      "language": "en",
+      "task_type": "question_bank",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000472,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "en-037",
+      "language": "en",
+      "task_type": "worksheet",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000478,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "en-038",
+      "language": "en",
+      "task_type": "lesson_plan",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000545,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "en-039",
+      "language": "en",
+      "task_type": "question_bank",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000471,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "en-040",
+      "language": "en",
+      "task_type": "worksheet",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000473,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "en-041",
+      "language": "en",
+      "task_type": "lesson_plan",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000545,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "en-042",
+      "language": "en",
+      "task_type": "question_bank",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000481,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "en-043",
+      "language": "en",
+      "task_type": "worksheet",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000481,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "en-044",
+      "language": "en",
+      "task_type": "lesson_plan",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.00054,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "en-045",
+      "language": "en",
+      "task_type": "question_bank",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000479,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "en-046",
+      "language": "en",
+      "task_type": "worksheet",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000472,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "en-047",
+      "language": "en",
+      "task_type": "lesson_plan",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000542,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "en-048",
+      "language": "en",
+      "task_type": "question_bank",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000486,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "en-049",
+      "language": "en",
+      "task_type": "worksheet",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000471,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "en-050",
+      "language": "en",
+      "task_type": "lesson_plan",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.00054,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "hi-001",
+      "language": "hi",
+      "task_type": "worksheet",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000458,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "hi-002",
+      "language": "hi",
+      "task_type": "lesson_plan",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000526,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "hi-003",
+      "language": "hi",
+      "task_type": "question_bank",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.00046,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "hi-004",
+      "language": "hi",
+      "task_type": "worksheet",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.00046,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "hi-005",
+      "language": "hi",
+      "task_type": "lesson_plan",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000529,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "hi-006",
+      "language": "hi",
+      "task_type": "question_bank",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000457,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "hi-007",
+      "language": "hi",
+      "task_type": "worksheet",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000466,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "hi-008",
+      "language": "hi",
+      "task_type": "lesson_plan",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000527,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "hi-009",
+      "language": "hi",
+      "task_type": "question_bank",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000463,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "hi-010",
+      "language": "hi",
+      "task_type": "worksheet",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000464,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "hi-011",
+      "language": "hi",
+      "task_type": "lesson_plan",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000526,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "hi-012",
+      "language": "hi",
+      "task_type": "question_bank",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000458,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "hi-013",
+      "language": "hi",
+      "task_type": "worksheet",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.00046,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "hi-014",
+      "language": "hi",
+      "task_type": "lesson_plan",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000527,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "hi-015",
+      "language": "hi",
+      "task_type": "question_bank",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000463,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "hi-016",
+      "language": "hi",
+      "task_type": "worksheet",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000457,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "hi-017",
+      "language": "hi",
+      "task_type": "lesson_plan",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.00053,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "hi-018",
+      "language": "hi",
+      "task_type": "question_bank",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.00046,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "hi-019",
+      "language": "hi",
+      "task_type": "worksheet",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000463,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "hi-020",
+      "language": "hi",
+      "task_type": "lesson_plan",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000531,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "hi-021",
+      "language": "hi",
+      "task_type": "question_bank",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000459,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "hi-022",
+      "language": "hi",
+      "task_type": "worksheet",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000458,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "hi-023",
+      "language": "hi",
+      "task_type": "lesson_plan",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000527,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "hi-024",
+      "language": "hi",
+      "task_type": "question_bank",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.00046,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "hi-025",
+      "language": "hi",
+      "task_type": "worksheet",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000462,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "hi-026",
+      "language": "hi",
+      "task_type": "lesson_plan",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000525,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "hi-027",
+      "language": "hi",
+      "task_type": "question_bank",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000466,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "hi-028",
+      "language": "hi",
+      "task_type": "worksheet",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.00046,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "hi-029",
+      "language": "hi",
+      "task_type": "lesson_plan",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.00053,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "hi-030",
+      "language": "hi",
+      "task_type": "question_bank",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000464,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "hi-031",
+      "language": "hi",
+      "task_type": "worksheet",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000458,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "hi-032",
+      "language": "hi",
+      "task_type": "lesson_plan",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000526,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "hi-033",
+      "language": "hi",
+      "task_type": "question_bank",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.00046,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "hi-034",
+      "language": "hi",
+      "task_type": "worksheet",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.00046,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "hi-035",
+      "language": "hi",
+      "task_type": "lesson_plan",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000529,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "hi-036",
+      "language": "hi",
+      "task_type": "question_bank",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000457,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "hi-037",
+      "language": "hi",
+      "task_type": "worksheet",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000466,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "hi-038",
+      "language": "hi",
+      "task_type": "lesson_plan",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000527,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "hi-039",
+      "language": "hi",
+      "task_type": "question_bank",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000463,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "hi-040",
+      "language": "hi",
+      "task_type": "worksheet",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000464,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "hi-041",
+      "language": "hi",
+      "task_type": "lesson_plan",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000526,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "hi-042",
+      "language": "hi",
+      "task_type": "question_bank",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000458,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "hi-043",
+      "language": "hi",
+      "task_type": "worksheet",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.00046,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "hi-044",
+      "language": "hi",
+      "task_type": "lesson_plan",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000527,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "hi-045",
+      "language": "hi",
+      "task_type": "question_bank",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000463,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "hi-046",
+      "language": "hi",
+      "task_type": "worksheet",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000457,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "hi-047",
+      "language": "hi",
+      "task_type": "lesson_plan",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.00053,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "hi-048",
+      "language": "hi",
+      "task_type": "question_bank",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.00046,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "hi-049",
+      "language": "hi",
+      "task_type": "worksheet",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000463,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    },
+    {
+      "id": "hi-050",
+      "language": "hi",
+      "task_type": "lesson_plan",
+      "passed": true,
+      "official": false,
+      "status": "pending",
+      "failed_checks": [],
+      "stored_clean": true,
+      "cost_usd": 0.000531,
+      "input_tokens": null,
+      "rubric": {
+        "factual correctness": null,
+        "syllabus fit": null,
+        "difficulty": null,
+        "language quality": null,
+        "child appropriateness": null
+      }
+    }
+  ]
+}

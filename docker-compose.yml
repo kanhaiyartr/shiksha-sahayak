@@ -1,0 +1,23 @@
+services:
+  api:
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      SHIKSHA_GENERATE_MODE: local
+      SHIKSHA_DB: /data/shiksha.sqlite
+      SHIKSHA_MONTHLY_CAP_USD: "5"
+    volumes:
+      - ./data:/data
+  ui:
+    build: .
+    command: streamlit run app/ui.py --server.address 0.0.0.0 --server.port 8501
+    ports:
+      - "8501:8501"
+    environment:
+      SHIKSHA_API_BASE: http://api:8000
+      SHIKSHA_OFFLINE_DB: /data/offline_queue.sqlite
+    volumes:
+      - ./data:/data
+    depends_on:
+      - api

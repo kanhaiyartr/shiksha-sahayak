@@ -1,0 +1,1 @@
+"""Shiksha Sahayak application package."""
